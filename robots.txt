@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap:https://kabu.newlife-startup.com/sitemap.xml
